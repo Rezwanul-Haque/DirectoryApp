@@ -1,0 +1,52 @@
+/*main.css*/
+
+body{
+    background-color: #ddd;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    padding: 0;
+    margin: 0 auto;
+}
+
+section{
+    padding: 0;
+    min-width: 250px;
+    border-radius: 3px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 0 10px 50px 10px;
+    
+}
+
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    margin: 0;
+}
+
+h2{ 
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+.person-title{
+    font-size: 1em;
+    color: #aaa;
+    padding: 0;
+    margin: 0;
+}
+
+.person-email{
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+}
